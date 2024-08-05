@@ -6,6 +6,14 @@ Alleviates the network congestion problem
 Save network bandwidth resources
 Providing high quality of service to the devices
 
+## Innovation
+Joint task scheduling and elastic scaling based on layer sharing
+Combine both active and passive scaling
+Better experimental result
+
+## Database
+Based on the traffic flow, the __original data__ contains *ID, Time, Location*, __generate data__ contains *Has Task, Start Time, Has Layer, Task Arrival Time*.
+
 ## Evironment based on python
 The environment contains six situations:
 ![image](image/system_model.jpg)
