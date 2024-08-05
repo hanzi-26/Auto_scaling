@@ -18,4 +18,7 @@ The environment contains six situations:
 Considered of *transmission delay, backehaul delay, computation delay, download delay, scaling delay, migration delay, migration delay*.
 
 ## Result
-![image](image/.png)
+![image](image/total_download_size.jpg)
+![image](image/transmission_time.jpg)
+![image](image/reward.jpg)
+![image](image/loss.jpg)
